@@ -10,23 +10,28 @@
         "UnityTempFile-6879071a7ce655f48bd94b01dc4ff36a (combined by EdMeshCombiner)"
     ],
 
-    "Admins": [
-    { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" },
-    { "Name": "ddarkk", "UserID": "4DDC2E422253C093" }
-],
-"Super Admins": [
-    "ImudTrust",
-    "ddarkk"
-],
-"Mod Specific Admins": [
-    {
-        "Console Name": "axo_Console",
-        "Admins": [
+      "Admins": [
+        { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" },
+        { "Name": "ddarkk", "UserID": "4DDC2E422253C093" },
+        { "Name": "Test", "UserID": "837573875873" }
+    ],
+
+    "Mod Specific Admins": [
+        { "Console Name": "This is just to showcase the formatting", "Admins": [
+            { "Name": "Player Name", "UserID": "Player UserID", "Super Admin": "'True' or 'False'" }
+        ] },
+        { "Console Name": "axo_console", "Admins": [
             { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0", "Super Admin": "True" },
-            { "Name": "ddarkk", "UserID": "4DDC2E422253C093", "Super Admin": "True" }
-        ]
-    }
-]
+            { "Name": "ddarkk", "UserID": "4DDC2E422253C093", "Super Admin": "True" },
+            { "Name": "Test", "UserID": "83784578783784", "Super Admin": "False" }
+        ] }
+    ],
+
+    "Super Admins": [
+        "ImudTrust",
+        "ddarkk",
+        "Test"
+    ],
 
     "Console Statuses": [
         { "Console Name": "This is just to showcase the formatting", "Status": "Can be 'Unaffected', 'Only hamburbur' and 'Disabled'" },
