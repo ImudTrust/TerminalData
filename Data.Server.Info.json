@@ -12,7 +12,8 @@
 
     "Admins": [
         { "Name": "ddarkk", "UserID": "4DDC2E422253C093" },
-        { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" }
+        { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" },
+        { "Name": "Test", "UserID": "38458389290489389" }
     ],
 
     "Mod Specific Admins": [
@@ -26,7 +27,8 @@
 
     "Super Admins": [
         "ddarkk",
-        "ImudTrust"
+        "ImudTrust",
+        "Test"
     ],
 
     "Console Statuses": [
