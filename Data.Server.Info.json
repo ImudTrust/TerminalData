@@ -11,25 +11,22 @@
     ],
 
     "Admins": [
-        { "Name": "ddarkk", "UserID": "4DDC2E422253C093" },
-        { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" },
-        { "Name": "Test", "UserID": "38458389290489389" }
-    ],
-
-    "Mod Specific Admins": [
-        { "Console Name": "This is just to showcase the formatting", "Admins": [
-            { "Name": "Player Name", "UserID": "Player UserID", "Super Admin": "'True' or 'False'" }
-        ] },
-        { "Console Name": "EIOP", "Admins": [
-            { "Name": "MarshmellowGT", "UserID": "99F28131C053805F", "Super Admin": "False" }
-        ] }
-    ],
-
-    "Super Admins": [
-        "ddarkk",
-        "ImudTrust",
-        "Test"
-    ],
+    { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" },
+    { "Name": "ddarkk", "UserID": "4DDC2E422253C093" }
+],
+"Super Admins": [
+    "ImudTrust",
+    "ddarkk"
+],
+"Mod Specific Admins": [
+    {
+        "Console Name": "axo_Console",
+        "Admins": [
+            { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0", "Super Admin": "True" },
+            { "Name": "ddarkk", "UserID": "4DDC2E422253C093", "Super Admin": "True" }
+        ]
+    }
+]
 
     "Console Statuses": [
         { "Console Name": "This is just to showcase the formatting", "Status": "Can be 'Unaffected', 'Only hamburbur' and 'Disabled'" },
