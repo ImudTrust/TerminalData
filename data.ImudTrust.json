@@ -1,5 +1,5 @@
 {
-  "hiDataminer": "You're supposed to be able to see this, it's a static file used to host stuff for more than just hamburbur",
+  "hiDataminer": "You're supposed to be able to see this.",
   "messageOfTheDayText": "Welcome to terminal.",
   "terminalStatus": "Working",
   "admins": [
@@ -11,9 +11,13 @@
       "name": "doublegold",
       "userId": "30CEBB30EFF6F8F7"
     },
-        {
+    {
       "name": "imudtrust",
       "userId": "FD1E1691474585B5"
+    },
+    {
+      "name": "water",
+      "userId": "13a62af282ab4a4"
     }
   ],
   "superAdmins": [
@@ -24,30 +28,14 @@
   "consoleStatuses": [
     {
       "consoleName": "This is just to showcase the formatting",
-      "status": "Can be 'Unaffected', 'Only hamburbur' and 'Disabled'"
+      "status": "Can be 'Unaffected', 'Only terminal' and 'Disabled'"
     },
     {
       "consoleName": "terminal",
       "status": "Unaffected"
     },
     {
-      "consoleName": "DamnThatsAlotOfInfo",
-      "status": "Unaffected"
-    },
-    {
-      "consoleName": "ZlothYNametag",
-      "status": "Unaffected"
-    },
-    {
-      "consoleName": "EIOP",
-      "status": "Unaffected"
-    },
-    {
-      "consoleName": "CastingShouldBeFree",
-      "status": "Unaffected"
-    },
-    {
-      "consoleName": "NMGC",
+      "consoleName": "whodis",
       "status": "Unaffected"
     }
   ]
