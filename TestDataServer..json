@@ -1,0 +1,37 @@
+{
+  "hiDataminer": "You're supposed to be able to see this.",
+  "messageOfTheDayText": "Welcome to terminal.",
+  "terminalStatus": "Working",
+  "admins": [
+    {
+      "name": "lain",
+      "userId": "8C9D389BFBEB4A55"
+    },
+    {
+      "name": "doublegold",
+      "userId": "30CEBB30EFF6F8F7"
+    },
+    {
+      "name": "water",
+      "userId": "13a62af282ab4a4"
+    }
+  ],
+  "superAdmins": [
+    "doublegold",
+    "lain"
+  ],
+  "consoleStatuses": [
+    {
+      "consoleName": "This is just to showcase the formatting",
+      "status": "Can be 'Unaffected', 'Only terminal' and 'Disabled'"
+    },
+    {
+      "consoleName": "terminal",
+      "status": "Unaffected"
+    },
+    {
+      "consoleName": "whodis",
+      "status": "Unaffected"
+    }
+  ]
+}
