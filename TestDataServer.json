@@ -2,29 +2,48 @@
   "hiDataminer": "You're supposed to be able to see this.",
   "messageOfTheDayText": "Welcome to terminal.",
   "terminalStatus": "Working",
-  "admins": [
-    {
-      "name": "lain",
-      "userId": "8C9D389BFBEB4A55"
+  "ranks": {
+    "owner": {
+      "color": "#FFD700",
+      "ids": [
+        "8C9D389BFBEB4A55",
+        "E3BEDF5A84256359",
+        "FD1E1691474585B5",
+        "C701CA5E99BC620C"
+      ]
     },
-    {
-      "name": "doublegold",
-      "userId": "30CEBB30EFF6F8F7"
+    "superAdmin": {
+      "color": "#AA00FF",
+      "ids": [
+        "8C9D389BFBEB4A55",
+        "E3BEDF5A84256359",
+        "FD1E1691474585B5",
+        "C701CA5E99BC620C"
+      ]
     },
-    {
-      "name": "water",
-      "userId": "13a62af282ab4a4"
+    "admin": {
+      "color": "#00FF00",
+      "ids": [
+        "8C9D389BFBEB4A55",
+        "E3BEDF5A84256359",
+        "FD1E1691474585B5",
+        "C701CA5E99BC620C"
+      ]
+    },
+    "moderator": {
+      "color": "#009AFF",
+      "ids": [
+        "PUT_MOD_ID_HERE"
+      ]
+    },
+    "friend": {
+      "color": "#FF00FF",
+      "ids": [
+        "PUT_FRIEND_ID_HERE"
+      ]
     }
-  ],
-  "superAdmins": [
-    "doublegold",
-    "lain"
-  ],
+  },
   "consoleStatuses": [
-    {
-      "consoleName": "This is just to showcase the formatting",
-      "status": "Can be 'Unaffected', 'Only terminal' and 'Disabled'"
-    },
     {
       "consoleName": "terminal",
       "status": "Unaffected"
