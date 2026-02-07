@@ -16,6 +16,10 @@
       "userId": "FD1E1691474585B5"
     },
     {
+      "name": "thebean",
+      "userId": "B041C36FC53B77EE"
+    },
+    {
       "name": "hatchson",
       "userId": "C701CA5E99BC620C"
     },
@@ -31,6 +35,7 @@
   "superAdmins": [
     "imudtrust",
     "clawedau",
+    "thebean",
     "GhostA",
     "Hatchson",
     "slips",
