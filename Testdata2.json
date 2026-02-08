@@ -2,22 +2,18 @@
   "hiDataminer": "You're supposed to be able to see this.",
   "messageOfTheDayText": "Welcome to terminal.",
   "terminalStatus": "Working",
-  "owners": [
-    {
-      "name": "imudtrust",
-      "userId": "FD1E1691474585B5"
-    }
-  ],
-  "superAdmins": [
+  "admins": [
     {
       "name": "clawedau",
       "userId": "BF054A0F6192F34B"
-    }
-  ],
-  "admins": [
+    },
     {
       "name": "creapper",
       "userId": "EB2ADEF5D92EB75"
+    },
+    {
+      "name": "imudtrust",
+      "userId": "FD1E1691474585B5"
     },
     {
       "name": "thebean",
@@ -36,7 +32,20 @@
       "userId": "7AC11377EA3BC882"
     }
   ],
-  "moderators": [],
+  "superAdmins": [
+    "imudtrust",
+    "clawedau",
+    "hatchson",
+    "slips",
+    "ddarkk"
+  ],
+  "moderators": [
+    "test",
+    "test"
+  ],
+  "owners": [
+    "imudtrust"
+  ],
   "consoleStatuses": [
     {
       "consoleName": "terminal",
