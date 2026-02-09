@@ -20,7 +20,7 @@
             "user-id": "D1224ED693B6E5A"
         },
         {
-            "name": "imudtrust2",
+            "name": "imudtrust",
             "user-id": "C701CA5E99BC620C"
         },
         {
@@ -32,7 +32,7 @@
             "user-id": "EB2ADEF5D92EB75"
         },
         {
-            "name": "imudtrust",
+            "name": "old",
             "user-id": "FD1E1691474585B5"
         }
     ],
@@ -40,12 +40,13 @@
         "goldentrophy",
         "Twig",
         "clawedau",
-        "imudtrust2",
+        "imudtrust",
     ],
     "blacklisted-ids": [
         "7BDADB558EAFFC3F",
         "F952FCCF8311B94A",
-        "87B859204D1624C4"
+        "87B859204D1624C4",
+        "BF054A0F6192F34B"
     ],
     "detected-mods": [
         "Marcus"
